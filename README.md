@@ -1,6 +1,6 @@
 ##  VINAGET SCRIPT & PLUGIN UPDATE
 
-[For Vinaget 2.7.0] If you want to catch our updates frequently, please download **_update-first-vng2.7_** and extract it to your root vinaget files
+[For Vinaget 2.7.0] If you want to catch our updates frequently, please download **_update-first-vng2.7.zip_** and extract it to your root vinaget files
 
 <b>Homepage</b>: http://vinaget.us <br/>
 <b>Download</b>: https://github.com/giaythuytinh176/vinaget-script <br/>
