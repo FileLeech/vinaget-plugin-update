@@ -1,0 +1,2 @@
+- Fix mega.co.nz
+- Be used for cbox get link
