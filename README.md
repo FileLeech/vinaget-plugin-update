@@ -2,10 +2,10 @@
 
 <b>Download</b>: vng31.r5.zip <br/>
 
-<b>Caution</b>: This is vinaget 3.1 beta, please do not use our updates for any other vinaget script.
+<b>Caution</b>: This is vinaget 3.1 beta, please do not use our updates for any other vinaget scripts.
 
 <b>Changelog</b>:<br>
-> [13/07][5]: Fix small bugs
+> [13/07][5]: Plugin Update: ryushare.com ; Fixed small bugs
 
 > [15/06][4]: New Api Zip Link: support sh.st, ouo.io, adf.ly, bc.vc ; support password fshare.vn [3.1], [2.6.3]
 
