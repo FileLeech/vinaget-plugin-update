@@ -1,13 +1,12 @@
 ##  VINAGET 3.1 BETA SCRIPT & PLUGIN UPDATE
 
-<b>Homepage</b>: http://vinaget.us <br/>
-<b>Download</b>: vng31.r4.zip <br/>
+<b>Download</b>: vng31.r5.zip <br/>
 
-<b>Caution</b>: This is vinaget 3.1 beta (unofficial), please do not use our updates for newer vinaget script if our current version supported vinaget is not same.
-
-<b>Supported</b>: new vinaget 3.1 beta & plugin vinaget 2.6.3 Final
+<b>Caution</b>: This is vinaget 3.1 beta, please do not use our updates for any other vinaget script.
 
 <b>Changelog</b>:<br>
+> [13/07][5]: Fix small bugs
+
 > [15/06][4]: New Api Zip Link: support sh.st, ouo.io, adf.ly, bc.vc ; support password fshare.vn [3.1], [2.6.3]
 
 > [07/06][3]: Add more language words ; Add option hide plugins column
